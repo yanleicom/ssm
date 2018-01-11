@@ -11,6 +11,6 @@
    <mappers>
        <!--<mapper resource="UserMapper.xml"/>
        <mapper resource="mapper/Mapper.xml"/>-->
-      <!-- <package name="cn.zhili.mapper"/>-->
+      <!-- <package name="com.zhili.mapper"/>-->
    </mappers>
 </configuration>
